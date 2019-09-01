@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://indonesiadot.com/categories/</loc>
+    <loc>http://indonesiadot.com/</loc>
+    <lastmod>2019-09-01T13:09:15+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://indonesiadot.com/</loc>
+    <loc>http://indonesiadot.com/posts/my-first-post/</loc>
+    <lastmod>2019-09-01T13:09:15+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://indonesiadot.com/posts/</loc>
+    <lastmod>2019-09-01T13:09:15+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://indonesiadot.com/categories/</loc>
   </url>
   
   <url>
