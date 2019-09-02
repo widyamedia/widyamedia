@@ -59,6 +59,13 @@
   </url>
   
   <url>
+    <loc>https://indonesiadot.com/posts/kubernetes/</loc>
+    <lastmod>2019-09-02T08:17:33+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://indonesiadot.com/posts/tujuh/</loc>
     <lastmod>2019-09-02T08:17:33+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -73,6 +80,20 @@
   </url>
   
   <url>
+    <loc>https://indonesiadot.com/posts/ubuntu-upgrade/</loc>
+    <lastmod>2019-09-02T08:17:29+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://indonesiadot.com/posts/python-mysql/</loc>
+    <lastmod>2019-09-02T08:17:25+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://indonesiadot.com/posts/lima/</loc>
     <lastmod>2019-09-02T08:17:25+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -80,8 +101,22 @@
   </url>
   
   <url>
+    <loc>https://indonesiadot.com/posts/git/</loc>
+    <lastmod>2019-09-02T08:17:21+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://indonesiadot.com/posts/empat/</loc>
     <lastmod>2019-09-02T08:17:21+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://indonesiadot.com/posts/hugo/</loc>
+    <lastmod>2019-09-02T08:17:16+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -101,6 +136,20 @@
   </url>
   
   <url>
+    <loc>https://indonesiadot.com/posts/hijrah/</loc>
+    <lastmod>2019-09-02T08:17:02+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://indonesiadot.com/posts/marhaban/</loc>
+    <lastmod>2019-09-01T14:12:09+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://indonesiadot.com/posts/welcome/</loc>
     <lastmod>2019-09-01T14:12:09+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -110,6 +159,12 @@
   <url>
     <loc>https://indonesiadot.com/posts/my-first-post/</loc>
     <lastmod>2019-09-01T13:09:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://indonesiadot.com/hal/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -128,12 +183,6 @@
   
   <url>
     <loc>https://indonesiadot.com/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://indonesiadot.com/nuhun/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

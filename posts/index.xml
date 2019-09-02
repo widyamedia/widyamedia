@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>All about kubernetes</title>
+      <link>https://indonesiadot.com/posts/kubernetes/</link>
+      <pubDate>Mon, 02 Sep 2019 08:17:33 +0700</pubDate>
+      
+      <guid>https://indonesiadot.com/posts/kubernetes/</guid>
+      <description>Referensi: https://darxkies.github.io/k8s-tew/_build/html/index.html</description>
+    </item>
+    
+    <item>
       <title>Tujuh</title>
       <link>https://indonesiadot.com/posts/tujuh/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:33 +0700</pubDate>
@@ -84,6 +93,25 @@
     </item>
     
     <item>
+      <title>Ubuntu upgrade 14.04 to 16.04 to 18.04</title>
+      <link>https://indonesiadot.com/posts/ubuntu-upgrade/</link>
+      <pubDate>Mon, 02 Sep 2019 08:17:29 +0700</pubDate>
+      
+      <guid>https://indonesiadot.com/posts/ubuntu-upgrade/</guid>
+      <description>Referensi: https://medium.com/@shathi.ece/upgrade-ubuntu-14-04-lts-to-ubuntu-16-04-lts-d0225503efb4</description>
+    </item>
+    
+    <item>
+      <title>Belajar Python dengan MySQL</title>
+      <link>https://indonesiadot.com/posts/python-mysql/</link>
+      <pubDate>Mon, 02 Sep 2019 08:17:25 +0700</pubDate>
+      
+      <guid>https://indonesiadot.com/posts/python-mysql/</guid>
+      <description>Referensi:
+https://monicagranbois.com/blog/python/cron-and-python-virtualenv/ https://www.petanikode.com/python-virtualenv/ https://www.petanikode.com/python-mysql/ https://www.datacamp.com/community/tutorials/mysql-python https://github.com</description>
+    </item>
+    
+    <item>
       <title>Lima</title>
       <link>https://indonesiadot.com/posts/lima/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:25 +0700</pubDate>
@@ -93,12 +121,32 @@
     </item>
     
     <item>
+      <title>Belajar Git</title>
+      <link>https://indonesiadot.com/posts/git/</link>
+      <pubDate>Mon, 02 Sep 2019 08:17:21 +0700</pubDate>
+      
+      <guid>https://indonesiadot.com/posts/git/</guid>
+      <description>Referensi:
+https://medium.com/@fahmiprasetiiio/belajar-git-untuk-pemula-7625c686c68f https://rogerdudler.github.io/git-guide/index.id.html</description>
+    </item>
+    
+    <item>
       <title>Empat</title>
       <link>https://indonesiadot.com/posts/empat/</link>
       <pubDate>Mon, 02 Sep 2019 08:17:21 +0700</pubDate>
       
       <guid>https://indonesiadot.com/posts/empat/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Pembuatan web statis dengan hugo</title>
+      <link>https://indonesiadot.com/posts/hugo/</link>
+      <pubDate>Mon, 02 Sep 2019 08:17:16 +0700</pubDate>
+      
+      <guid>https://indonesiadot.com/posts/hugo/</guid>
+      <description>Referensi:
+Tig://gohugo.io/getting-started/quick-start/ https://gohugo.io/hosting-and-deployment/hosting-on-github/ https://themes.gohugo.io/gohugo-theme-ananke/ https://www.opentechguides.com/how-to/article/hugo/164/hugo-site-build.html https://github.com</description>
     </item>
     
     <item>
@@ -117,6 +165,27 @@
       
       <guid>https://indonesiadot.com/posts/ahlansahlan/</guid>
       <description>Ahlan wa sahlan bi khuduurikum :)</description>
+    </item>
+    
+    <item>
+      <title>Migrasi antar hugo</title>
+      <link>https://indonesiadot.com/posts/hijrah/</link>
+      <pubDate>Mon, 02 Sep 2019 08:17:02 +0700</pubDate>
+      
+      <guid>https://indonesiadot.com/posts/hijrah/</guid>
+      <description>To remove a submodule you need to:
+Delete the relevant section from the .gitmodules file. Stage the .gitmodules changes git add .gitmodules Delete the relevant section from .git/config. Run git rm &amp;ndash;cached path_to_submodule (no trailing slash). Run rm -rf .git/modules/path_to_submodule (no trailing slash). Commit git commit -m &amp;ldquo;Removed submodule &amp;ldquo; Delete the now untracked submodule files rm -rf path_to_submodule
+Referensi:
+https://indonesiadot.com https://gist.github.com/myusuf3/7f645819ded92bda6677</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://indonesiadot.com/posts/marhaban/</link>
+      <pubDate>Sun, 01 Sep 2019 14:12:09 +0700</pubDate>
+      
+      <guid>https://indonesiadot.com/posts/marhaban/</guid>
+      <description>Welcome, wilkomen, marhaban, ahlan wa sahlan</description>
     </item>
     
     <item>
