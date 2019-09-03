@@ -6,19 +6,9 @@
     <description>Recent content on IndonesiaDot.Com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:39:16 +0600</lastBuildDate>
     
 	<atom:link href="https://indonesiadot.com/author/somrat/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Simple Post Title</title>
-      <link>https://indonesiadot.com/news/simple-post-title/</link>
-      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
-      
-      <guid>https://indonesiadot.com/news/simple-post-title/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
-    </item>
     
   </channel>
 </rss>
