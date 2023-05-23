@@ -1,79 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://indonesiadot.com/author/widya/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/author/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/news/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/news/sejarah-indonesiadotcom/</loc>
     <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/news/kami-mendengar/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/author/media/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/author/nugraha/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/tags/golang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/news/installation/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/tags/hugo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/tags/programming/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/categories/starting/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/tags/theme/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://indonesiadot.com/author/themefisher/</loc>
   </url>
-  
 </urlset>
